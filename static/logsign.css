@@ -1,0 +1,22 @@
+body{background-color: black;}
+div.centero{
+ display: block;
+ width: 300px;
+ height: 100px;
+ text-align:left;
+ margin: 50px auto;
+ color: yellowgreen;
+ padding: 50px 50px 50px 50px;
+ }
+
+
+ h3 {text-align: center;
+    color: white; 
+    }
+
+div.topnav{color: #cc2b5e → #753a88;
+        font-family: 'Staatliches', cursive;
+        font-size: 30px;
+        font-weight: bolder;
+
+    }
